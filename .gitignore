@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & results
+gid-15/
+results/
+models/
+*.h5
+*.pt
+mlflow_logs.tar.gz
+
+# Archives
+*.zip
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# documents and reports
+*.pdf
+*.docx

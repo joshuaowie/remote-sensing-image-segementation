@@ -1,0 +1,17 @@
+# Core DL framework
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Data handling & image I/O
+numpy
+Pillow
+
+# Data augmentation & transforms
+torchvision
+
+# Training utilities & logging
+tqdm
+mlflow
+
+# Plotting
+matplotlib
