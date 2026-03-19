@@ -49,3 +49,5 @@ unknown, uncertain pixels or in our case pixels that serve as just the backgroun
 (index 0). 
 This ensures that the model does not learn from uncertain or missing labels, leading to better 
 generalization.
+
+Read full Technical report here (Technical Report)[https://github.com/joshuaowie/remote-sensing-image-segementation/blob/main/Technical%20Report%20on%20Remote%20Sensing%20Image%20Segmentation%20Experiments.pdf]
